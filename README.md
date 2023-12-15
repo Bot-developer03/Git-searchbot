@@ -1,4 +1,4 @@
-# telegram-github-search-bot
+# github-search-bot
 A Github search bot for Telegram.
 
 This bot can search *users*, *repos* and *issues* and works well both in **normal** and **inline** mode.
@@ -11,7 +11,11 @@ This bot can search *users*, *repos* and *issues* and works well both in **norma
 
 ```bash
 git clone https://github.com/mamal72/telegram-github-search-bot.git
+```
+```bash
 cd telegram-github-search-bot
+```
+```bash
 npm install
 ```
 
