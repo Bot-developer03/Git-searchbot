@@ -10,16 +10,19 @@ This bot can search *users*, *repos* and *issues* and works well both in **norma
 2- Clone the repo and install dependencies.
 
 ```bash
-git clone https://github.com/mamal72/telegram-github-search-bot.git
+git clone https://github.com/bot-developer03/Git-searchbot.git
 ```
 ```bash
-cd telegram-github-search-bot
+cd telegram-Git-searchbot
 ```
 ```bash
 npm install
 ```
 
-3- Add your bot token to the `config.js` file.
+3- Add your bot token to the
+ ```bash
+config.js
+````
 
 4- All done. Run your bot:
 
