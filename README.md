@@ -1,6 +1,6 @@
 # github-search-bot
 A Github search bot for Telegram.
-
+<img src="https://telegra.ph/file/5a75ec114507a19f393d6.jpg"/>
 This bot can search *users*, *repos* and *issues* and works well both in **normal** and **inline** mode.
 
 ## Installation:
